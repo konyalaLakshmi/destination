@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.image {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+.name {
+  font-size: 14px;
+  color: #000000;
+  margin: 5px;
+}

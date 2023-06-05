@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.bg {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.h1 {
+  font-weight: bold;
+  font-size: 24px;
+  margin: 10px;
+  color: #000000;
+}
+.inputC {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #252627;
+}
+
+.input {
+  background-color: #252627;
+}
+.img {
+  height: 30px;
+  width: 30px;
+  margin: 4px;
+}
+.coc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+.bgc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+}
